@@ -1,11 +1,11 @@
 #Ragen's Thoughts on "Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?" by Eric Elliot
 
 ###Tasks
-- [ ] Read the article
+- [x] Read the article
 - [x] Talk about it in a README.md file
 - [x] Use Markdown to code your readme.
-- [ ] try the code thingies in codepen
-- [ ] copy the URL from codepen into the readme.
+- [x] try the code thingies in codepen
+- [x] copy the URL from codepen into the readme.
 
 *NOTE: this is day 1 on these topics. I am allowed to not know stuff yet.*
 
